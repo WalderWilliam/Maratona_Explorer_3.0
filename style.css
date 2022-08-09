@@ -100,7 +100,7 @@ footer {
   height: 60px;
   width: 400px;
   background-color: #c67c2e;
-  border-radius: 60px 60px 0 0;
+  border-radius: 60px 60px 60px 60px;
 }
 .rodape {
   padding-top: 8px;
