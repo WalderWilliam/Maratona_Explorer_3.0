@@ -96,11 +96,10 @@ footer {
   box-sizing: 400px 100px;
   margin: auto;
   margin-top: 90px;
-  margin-botton: 0px;
   height: 60px;
-  width: 400px;
+  width: 360px;
   background-color: #c67c2e;
-  border-radius: 60px 60px 60px 60px;
+  border-radius: 60px;
 }
 .rodape {
   padding-top: 8px;
