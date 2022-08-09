@@ -45,6 +45,8 @@ ul {
   list-style: none;
 }
 
+/* SECTION PART */
+
 section {
   margin-bottom: 24px;
 }
@@ -88,4 +90,21 @@ li .details {
 
 .price {
   text-align: right;
+}
+
+footer {
+  box-sizing: 400px 100px;
+  margin: auto;
+  margin-top: 90px;
+  height: 60px;
+  width: 400px;
+  background-color: #c67c2e;
+  border-radius: 60px 60px 0 0;
+}
+.rodape {
+  padding-top: 8px;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 300;
+  color: white;
 }
